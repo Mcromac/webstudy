@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 0d47b55332ddeff468794d4da780144c
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Neue Machina
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: c765e80ddb4d4684d86ecd707e82fe91, type: 3}
+  - {fileID: 12800000, guid: e6d430de25250f7478877a9b46ee1822, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

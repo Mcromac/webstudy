@@ -1,0 +1,28 @@
+fileFormatVersion: 2
+guid: 7f746e55f46e178419f7794fc03c65ef
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Aristotelica Display Trial
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: eaa444ec82804454c94753bf8ed49319, type: 3}
+  - {fileID: 12800000, guid: 47bfa4ed222ed2448a12518dfb9e4999, type: 3}
+  - {fileID: 12800000, guid: 465a0fc01f4109e44be59f4b784bcfef, type: 3}
+  - {fileID: 12800000, guid: d27134ed9af789d48a5a77d50124d760, type: 3}
+  - {fileID: 12800000, guid: 3fd9f149d00625347b71d96cbdfed121, type: 3}
+  - {fileID: 12800000, guid: 115ed4070ce015846be9a9a751c9518c, type: 3}
+  - {fileID: 12800000, guid: 8e06fbb2998724e4c943349310fc0b10, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

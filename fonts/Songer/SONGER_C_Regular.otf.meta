@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 2e00b9b2a3dd1474e99f8492e5c38db0
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - SONGER Condensed
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: d599c25c18c76c343ada85365cf9d299, type: 3}
+  - {fileID: 12800000, guid: b77077a6327d2a748b13b9c86d2094c8, type: 3}
+  - {fileID: 12800000, guid: 7c17a7a7ce641b545a0c1e7351d6f237, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

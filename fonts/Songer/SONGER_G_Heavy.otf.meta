@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: 4f3c61c008626b84fa845478247d5393
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - SONGER Grotesque
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: ca1a45a46703c9842b64c43201816cc4, type: 3}
+  - {fileID: 12800000, guid: e5a2c3742acb7f147a9ed06959c9811b, type: 3}
+  - {fileID: 12800000, guid: d64e1d50e21074b45a2abe38f5bd1dd8, type: 3}
+  - {fileID: 12800000, guid: 001f7ec0fe930914dbd787dd3bbd294f, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

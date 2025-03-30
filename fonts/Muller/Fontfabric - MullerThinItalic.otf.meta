@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: 16d7c9b1d2f03b545830a7af3dd48b59
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Muller
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 448c76bd65c300d49a46905b0f939a94, type: 3}
+  - {fileID: 12800000, guid: d28f0d701a267df438614943c884bcce, type: 3}
+  - {fileID: 12800000, guid: 41c39350839419941b6dc68600eaae4d, type: 3}
+  - {fileID: 12800000, guid: e1567a4b6ef9bac4caa36dd64ac17504, type: 3}
+  - {fileID: 12800000, guid: f0f012e256a76474ab85814c46143785, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

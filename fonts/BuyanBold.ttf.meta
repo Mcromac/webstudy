@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 2db776c4e4e07a341a1f9efab29ad09c
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Buyan
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 96c6695fec040e34db65731939b25c4b, type: 3}
+  - {fileID: 12800000, guid: 39d93a15b910e6544aef79addb48c647, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

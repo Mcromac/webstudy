@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 389ba3815d6319d42a781f23e31a491c
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - CocoBikeR
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 0363904967b8f80439d4e82c340cba9a, type: 3}
+  - {fileID: 12800000, guid: 32fb67d3514d7734bac50f663ff3069a, type: 3}
+  - {fileID: 12800000, guid: b35f7e2e9e60efe4986d1cac0c2e67f0, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
