@@ -15,7 +15,7 @@ h1 {
     display: flex;
     justify-content:center;
     flex-direction: column;
-    /*mask-image: url("https://static.tildacdn.com/tild3362-3131-4333-a165-396539316463/-1___1__2.svg");*/
+    mask-image: url("https://static.tildacdn.com/tild3362-3131-4333-a165-396539316463/-1___1__2.svg");
 }
 
 .rickroll {
