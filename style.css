@@ -1,0 +1,42 @@
+@font-face {
+    font-family: 'Architectural'; 
+    src: url('Fonts/Architectural.ttf'); 
+}
+
+h1 {
+    font-family: "Architectural";
+    font-size: 80px;
+    color: darkslategrey;
+    display: flex;
+    justify-content: center;
+}
+
+.block {
+    display: flex;
+    justify-content:center;
+    flex-direction: column;
+    mask-image: url("https://static.tildacdn.com/tild3362-3131-4333-a165-396539316463/-1___1__2.svg");
+}
+
+.rickroll {
+    display: inline-block;
+    padding: 15px 25px;
+    font-size: 24px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: #fff;
+    background-color: #04AA6D;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+  }
+  
+  .rickroll:hover {background-color: #3e8e41}
+  
+  .rickroll:active {
+    background-color: #3e8e41;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+  }
